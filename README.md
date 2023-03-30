@@ -1,4 +1,3 @@
-# AsymmetricParameter
 These codes are made for calculating the asymmetric parameter eta.
 
 Created by zhzhong@nao.cas.cn
