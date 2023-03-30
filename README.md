@@ -2,22 +2,22 @@ These codes are made for calculating the asymmetric parameter eta.
 
 Created by zhzhong@nao.cas.cn
 
-Authors: 
-Zehao Zhong (zhzhong@nao.cas.cn)
-Gang Zhao
-Hans-Walter Rix
+Authors:    
+Zehao Zhong (zhzhong@nao.cas.cn)    
+Gang Zhao   
+Hans-Walter Rix 
 
 This example is used to calculate the asymmetry parameter, and could reproduced the results in our article (Fig. 2).
 
 
 You may need these reference:
-Our paper (in preparation)
-(Data and tables from SAMI survey Dr3):
-Croom, S. et al. 2021, MNRAS, 505, 991–1016 (SAMI survey Dr3)
-Owers, M. et al. 2017, MNRAS, 468, 1824–1849 (table InputCatClustersDR3)
-D’Eugenio, F. et al. 2021, MNRAS, 504, 5098–5130 (table MGEPhotomUnregDR3)
-Cortese, L. et al. 2016, MNRAS, 463, 170–184 (table VisualMorphologyDR3)
-van de Sande, J. et al. 2017, APJ, 835, 104 (stellar kinematics)
+Our paper (in preparation)    
+(Data and tables from SAMI survey Dr3):   
+Croom, S. et al. 2021, MNRAS, 505, 991–1016 (SAMI survey Dr3)   
+Owers, M. et al. 2017, MNRAS, 468, 1824–1849 (table InputCatClustersDR3)    
+D’Eugenio, F. et al. 2021, MNRAS, 504, 5098–5130 (table MGEPhotomUnregDR3)    
+Cortese, L. et al. 2016, MNRAS, 463, 170–184 (table VisualMorphologyDR3)    
+van de Sande, J. et al. 2017, APJ, 835, 104 (stellar kinematics)    
 Bryant, J. et al. 2015, MNRAS, 447, 2857–2879 (table InputCatGAMADR3)
 
 
