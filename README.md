@@ -2,7 +2,7 @@ These codes are made for calculating the asymmetric parameter eta.
 
 Created by zhzhong@nao.cas.cn
 
-Authors:    
+Paper Authors:    
 Zehao Zhong (zhzhong@nao.cas.cn);    
 Gang Zhao;    
 Hans-Walter Rix;    
@@ -12,7 +12,7 @@ This example is used to calculate the asymmetry parameter, and could reproduced 
 
 
 You may need these reference:
-Our paper (in preparation)    
+Our paper (Under Review)    
 (Data and tables from SAMI survey Dr3):   
 Croom, S. et al. 2021, MNRAS, 505, 991–1016 (SAMI survey Dr3)   
 Owers, M. et al. 2017, MNRAS, 468, 1824–1849 (table InputCatClustersDR3)    
