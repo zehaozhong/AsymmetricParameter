@@ -3,10 +3,10 @@ These codes are made for calculating the asymmetric parameter eta.
 Created by zhzhong@nao.cas.cn
 
 Authors:    
-Zehao Zhong (zhzhong@nao.cas.cn)
-Gang Zhao
-Hans-Walter Rix
-Luis C. Ho
+Zehao Zhong (zhzhong@nao.cas.cn);
+Gang Zhao;
+Hans-Walter Rix;
+Luis C. Ho.
 
 This example is used to calculate the asymmetry parameter, and could reproduced the results in our article (Fig. 2, Fig. 3).
 
