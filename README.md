@@ -4,10 +4,11 @@ Created by zhzhong@nao.cas.cn
 
 Authors:    
 Zehao Zhong (zhzhong@nao.cas.cn)    
-Gang Zhao   
-Hans-Walter Rix 
+Gang Zhao
+Hans-Walter Rix
+Luis C. Ho
 
-This example is used to calculate the asymmetry parameter, and could reproduced the results in our article (Fig. 2).
+This example is used to calculate the asymmetry parameter, and could reproduced the results in our article (Fig. 2, Fig. 3).
 
 
 You may need these reference:
@@ -19,7 +20,9 @@ D’Eugenio, F. et al. 2021, MNRAS, 504, 5098–5130 (table MGEPhotomUnregDR3)
 Cortese, L. et al. 2016, MNRAS, 463, 170–184 (table VisualMorphologyDR3)    
 van de Sande, J. et al. 2017, APJ, 835, 104 (stellar kinematics)    
 Bryant, J. et al. 2015, MNRAS, 447, 2857–2879 (table InputCatGAMADR3)
-
+(COBS – Constrained B-splines)
+Ng P, Maechler M (2007). “A Fast and Efficient Implementation of Qualitatively Constrained Quantile Smoothing Splines.” Statistical Modelling, 7(4), 315–328. doi:10.1177/1471082X0700700403.
+Ng PT, Maechler M (2022). COBS – Constrained B-splines (Sparse matrix based). R package version 1.3-5., https://CRAN.R-project.org/package=cobs.
 
 The details of these codes are showed in the 'Methods' section of our paper.
 
@@ -29,6 +32,6 @@ of calculating eta of TNG DATA is similar, and the code is not repeated here.
 
 Or if you would like to calculate the asymmetric parameter eta of your 
 own IFU data. Please look at the core function 'calind2inv3' and 'calchinreMCv14',
-you can also refer to function 'spldgnfdr3v9'.
+you can also refer to function 'asymparaquanall'.
 
 Please note that modify the corresponding path to your own path when running the program.
