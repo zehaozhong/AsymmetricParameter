@@ -3,9 +3,9 @@ These codes are made for calculating the asymmetric parameter eta.
 Created by zhzhong@nao.cas.cn
 
 Authors:    
-Zehao Zhong (zhzhong@nao.cas.cn);
-Gang Zhao;
-Hans-Walter Rix;
+Zehao Zhong (zhzhong@nao.cas.cn);    
+Gang Zhao;    
+Hans-Walter Rix;    
 Luis C. Ho.
 
 This example is used to calculate the asymmetry parameter, and could reproduced the results in our article (Fig. 2, Fig. 3).
@@ -19,9 +19,9 @@ Owers, M. et al. 2017, MNRAS, 468, 1824–1849 (table InputCatClustersDR3)
 D’Eugenio, F. et al. 2021, MNRAS, 504, 5098–5130 (table MGEPhotomUnregDR3)    
 Cortese, L. et al. 2016, MNRAS, 463, 170–184 (table VisualMorphologyDR3)    
 van de Sande, J. et al. 2017, APJ, 835, 104 (stellar kinematics)    
-Bryant, J. et al. 2015, MNRAS, 447, 2857–2879 (table InputCatGAMADR3)
-(COBS – Constrained B-splines)
-Ng P, Maechler M (2007). “A Fast and Efficient Implementation of Qualitatively Constrained Quantile Smoothing Splines.” Statistical Modelling, 7(4), 315–328. doi:10.1177/1471082X0700700403.
+Bryant, J. et al. 2015, MNRAS, 447, 2857–2879 (table InputCatGAMADR3)    
+(COBS – Constrained B-splines)    
+Ng P, Maechler M (2007). “A Fast and Efficient Implementation of Qualitatively Constrained Quantile Smoothing Splines.” Statistical Modelling, 7(4), 315–328. doi:10.1177/1471082X0700700403.    
 Ng PT, Maechler M (2022). COBS – Constrained B-splines (Sparse matrix based). R package version 1.3-5., https://CRAN.R-project.org/package=cobs.
 
 The details of these codes are showed in the 'Methods' section of our paper.
